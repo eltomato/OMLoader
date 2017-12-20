@@ -1,0 +1,2 @@
+
+fun myModuleOtherFunction() = ("myModuleOtherFunction");
